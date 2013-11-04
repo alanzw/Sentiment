@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../Sentiment/Sentiment.cbp">
+			<Depends filename="../Sentiment/Sentiment_SFMLGui.cbp" />
+		</Project>
+		<Project filename="../Sentiment/Sentiment_D3D11Renderer.cbp" />
+		<Project filename="../Sentiment/Sentiment_SFMLGui.cbp" />
+		<Project filename="../Sentiment/Sentiment_OGL4-3Renderer.cbp" />
+		<Project filename="../Sentiment/Sonic Adventure 2 - Reimagine.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sentiment_OGL4-3Renderer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Sentiment_OGL4-3Renderer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-DGLEW_STATIC" />
+					<Add option="-DBUILD_DLL" />
+					<Add directory="../Sentiment" />
+					<Add directory="C:/Lib/glew-1.10.0/include" />
+				</Compiler>
+				<Linker>
+					<Add library="user32" />
+					<Add library="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Lib\OpenGL32.Lib" />
+					<Add library="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Lib\Gdi32.Lib" />
+					<Add directory="C:/Lib/glew-1.10.0/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Sentiment_OGL4-3Renderer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-DBUILD_DLL" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="user32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Sentiment_OGL4-3Renderer/Sentiment_OGL4Renderer.cpp" />
+		<Unit filename="Sentiment_OGL4-3Renderer/Sentiment_OGL4Renderer.h" />
+		<Unit filename="Sentiment_OGL4-3Renderer/glew.cpp" />
+		<Unit filename="Sentiment_OGL4-3Renderer/glew.h" />
+		<Unit filename="Sentiment_OGL4-3Renderer/glxew.h" />
+		<Unit filename="Sentiment_OGL4-3Renderer/wglew.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

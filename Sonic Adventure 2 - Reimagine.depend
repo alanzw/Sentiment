@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1383377200 source:c:\users\wyatt\documents\code blocks projects\sentiment\sonic adventure 2 - reimagine\game.cpp
+	"Game.h"
+
+1383377172 c:\users\wyatt\documents\code blocks projects\sentiment\sonic adventure 2 - reimagine\game.h
+	"Root/Engine/Engine.h"
+	"Root/Utility/LoadLib/LoadLib.h"
+	"Root/Game/IGame.h"
+
+1383344884 c:\users\wyatt\documents\code blocks projects\sentiment\root\utility\loadlib\loadlib.h
+	<string>
+
+1383377247 c:\users\wyatt\documents\code blocks projects\sentiment\root\game\igame.h
+	<memory>
+
+1383376848 c:\users\wyatt\documents\code blocks projects\sentiment\root\engine\engine.h
+	<stdexcept>
+	"Root\Engine\GUI\IGui.h"
+	"Root\Engine\Graphics\IRenderer.h"
+	"Root\Game\IGame.h"
+	"Root\Utility\LoadLib\LoadLib.h"
+
+1379109338 c:\users\wyatt\documents\code blocks projects\sentiment\root\engine\gui\igui.h
+	<memory>
+	<string>
+
+1380359376 c:\users\wyatt\documents\code blocks projects\sentiment\root\engine\graphics\irenderer.h
+	"Root\Utility\Math\SENTIMENT_Math.h"
+	"Root\Engine\GUI\IGui.h"
+	<memory>
+	<vector>
+	<string>
+	<map>
+
+1377840742 c:\users\wyatt\documents\code blocks projects\sentiment\root\utility\math\sentiment_math.h
+	<array>
+	<cmath>
+	<stdexcept>
+	"SENTIMENT_Math.hpp"
+
+1377841283 c:\users\wyatt\documents\code blocks projects\sentiment\root\utility\math\sentiment_math.hpp
+

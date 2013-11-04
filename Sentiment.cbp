@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sentiment" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Sentiment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="Root" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Sentiment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+			<Add directory="../Sentiment" />
+		</Compiler>
+		<Unit filename="Root/Engine/Engine.cpp" />
+		<Unit filename="Root/Engine/Engine.h" />
+		<Unit filename="Root/Engine/Entity System/Components/Mesh.h" />
+		<Unit filename="Root/Engine/Entity System/Entity_Engine.h" />
+		<Unit filename="Root/Engine/Entity System/Nodes/Render.cpp" />
+		<Unit filename="Root/Engine/Entity System/Nodes/Render.h" />
+		<Unit filename="Root/Engine/GUI/IGui.h" />
+		<Unit filename="Root/Engine/Graphics/IGraphics.h" />
+		<Unit filename="Root/Engine/Graphics/IRenderer.h" />
+		<Unit filename="Root/Engine/System/ISystem.h" />
+		<Unit filename="Root/Game/IGame.h" />
+		<Unit filename="Root/Utility/Factory/Factory.cpp" />
+		<Unit filename="Root/Utility/Factory/Factory.h" />
+		<Unit filename="Root/Utility/Intrusive/Intrusive.cpp" />
+		<Unit filename="Root/Utility/Intrusive/Intrusive.h" />
+		<Unit filename="Root/Utility/Intrusive/Intrusive_list.h" />
+		<Unit filename="Root/Utility/Intrusive/Intrusive_map.h" />
+		<Unit filename="Root/Utility/LoadLib/LoadLib.cpp" />
+		<Unit filename="Root/Utility/LoadLib/LoadLib.h" />
+		<Unit filename="Root/Utility/Math/SENTIMENT_Math.cpp" />
+		<Unit filename="Root/Utility/Math/SENTIMENT_Math.h" />
+		<Unit filename="Root/Utility/Math/SENTIMENT_Math.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

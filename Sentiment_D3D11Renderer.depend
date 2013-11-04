@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1378618100 source:c:\users\wyatt\documents\code blocks projects\sentiment\sentiment_d3d11renderer\sentiment_d3d11renderer.cpp
+	"Sentiment_D3D11Renderer.h"
+
+1378618408 c:\users\wyatt\documents\code blocks projects\sentiment\sentiment_d3d11renderer\sentiment_d3d11renderer.h
+	<map>
+	<dxgi.h>
+	<d3dcommon.h>
+	<d3d11.h>
+	<D3DX11.h>
+	<d3dx10math.h>
+	"..\Root\Engine\Graphics\IRenderer.h"
+
+1274312218 c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgi.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"dxgitype.h"
+
+1274312218 c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h
+	"dxgiformat.h"
+
+1274312218 c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgiformat.h
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dcommon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"dxgi.h"
+	"d3dcommon.h"
+	"d3d10_1.h"
+	"d3d11sdklayers.h"
+	"d3d10misc.h"
+	"d3d10shader.h"
+	"d3d10effect.h"
+	"d3d10_1shader.h"
+
+1274312216 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10_1.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"d3d10.h"
+	"d3d10_1shader.h"
+
+1274312216 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"dxgi.h"
+	"d3dcommon.h"
+	"d3d10sdklayers.h"
+	"d3d10misc.h"
+	"d3d10shader.h"
+	"d3d10effect.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10sdklayers.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"dxgi.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10misc.h
+	"d3d10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10shader.h
+	"d3d10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10effect.h
+	"d3d10.h"
+
+1274312216 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10_1shader.h
+	"d3d10shader.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11sdklayers.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+	"d3d11.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx11.h
+	<limits.h>
+	<float.h>
+	<new>
+	"d3d11.h"
+	"d3dx11.h"
+	"d3dx11core.h"
+	"d3dx11tex.h"
+	"d3dx11async.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx11core.h
+	"d3dx11.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx11tex.h
+	"d3dx11.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx11async.h
+	"d3dx11.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10math.h
+	"D3DX10.h"
+	<math.h>
+	"D3DX10math.inl"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10.h
+	<limits.h>
+	<float.h>
+	"d3d10.h"
+	"d3dx10.h"
+	"d3dx10math.h"
+	"d3dx10core.h"
+	"d3dx10tex.h"
+	"d3dx10mesh.h"
+	"d3dx10async.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10core.h
+	"d3dx10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10tex.h
+	"d3dx10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10mesh.h
+	"d3dx10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10async.h
+	"d3dx10.h"
+
+1274312217 c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx10math.inl
+
+1378329676 c:\users\wyatt\documents\code blocks projects\sentiment\root\engine\graphics\irenderer.h
+	"Root\Utility\Math\SENTIMENT_Math.h"
+	<memory>
+	<vector>
+	<tuple>
+	<string>
+
+1377840742 c:\users\wyatt\documents\code blocks projects\sentiment\root\utility\math\sentiment_math.h
+	<array>
+	<cmath>
+	<stdexcept>
+	"SENTIMENT_Math.hpp"
+
+1377841283 c:\users\wyatt\documents\code blocks projects\sentiment\root\utility\math\sentiment_math.hpp
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Sentiment_OGL4-3Renderer\glew.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="542334" topLine="9553" />
+		</Cursor>
+	</File>
+	<File name="Sentiment_OGL4-3Renderer\Sentiment_OGL4Renderer.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13168" topLine="489" />
+		</Cursor>
+	</File>
+	<File name="Sentiment_OGL4-3Renderer\wglew.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1259" topLine="348" />
+		</Cursor>
+	</File>
+	<File name="Sentiment_OGL4-3Renderer\glew.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6766" topLine="18021" />
+		</Cursor>
+	</File>
+	<File name="Sentiment_OGL4-3Renderer\Sentiment_OGL4Renderer.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6502" topLine="203" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
