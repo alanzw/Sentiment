@@ -46,6 +46,10 @@ public:
 
         ~OGL4Shader();
 
+        void cache() {}
+
+        void uncache() {}
+
         int m_ShaderID;
     };
 

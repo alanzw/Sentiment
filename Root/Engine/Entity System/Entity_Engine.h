@@ -129,7 +129,7 @@ private:
     std::map<long, std::vector<base_node *> > m_Nodes;
     intrusive::map<std::string, base_component> m_ComponentByName;
     intrusive::map<std::string, base_node> m_NodeByName;
-    std::map<std::string, base_entity> m_EntityList;
+    std::map<std::string, Entity> m_EntityList;
 };
 
 
